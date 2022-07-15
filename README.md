@@ -11,5 +11,6 @@ Esta es otra forma de hacer una bullet list
 * ¿Ves?
 * Creado por Antony 
 * Incluye ejemplos en diferentes S.O.
+* Para todo público
 
 **LA SINTÁXIS ES MUY SENCILLA**
